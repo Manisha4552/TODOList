@@ -1,0 +1,31 @@
+.container{
+    background-color: #586776;
+    width:40%;
+    height:30rem;
+}
+h1{
+    font-family: 'Merriweather', serif;
+}
+.form-control{
+    width: 60%;
+}
+.input-group{
+  margin-top: 2rem;
+  margin-left: 4rem;
+}
+
+.container2{
+    height:2rem;
+    width: 50%;
+   
+    background-color: #7CEC9F;
+}
+.items{
+    font-size: medium;
+    font-family: 'Sansita Swashed', cursive;
+   
+}
+.trash{
+    float: right;
+    padding-right: 1rem;
+}
